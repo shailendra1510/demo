@@ -10,7 +10,7 @@
 	</target>
 	<target name="tests" depends="init" description="launchpad jmeter load tests">
 		<echo message="[Running] Running Jmeter Launchpad tests..." />
-		<jmeter-task jmeterhome="${jmeter-location}" resultlog="Jenkins-results\jtl\launchpad_report.jtl">
+		<jmeter-task jmeterhome="${jmeter-location}" resultlog="Jenkins-results\jtl\${LoadTestNumber}launchpad_report.jtl">
 			<testplans dir="" includes="LaunchpadAttemptQuiz.jmx" />
 			<property name="env" value="qa" />
 			<property name="threads" value="${Totaluser}" />

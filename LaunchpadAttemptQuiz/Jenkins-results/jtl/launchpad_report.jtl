@@ -1,0 +1,1606 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<sample t="970" lt="0" ts="1415183085381" s="true" lb="Launch" rc="200" rm="Number of samples in transaction : 11, number of failing samples : 0" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="" by="915736">
+  <assertionResult>
+    <name>Global Verification</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="362" lt="58" ts="1415183085398" s="true" lb="/launchpad/myers10e/" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="text" by="209003">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <httpSample t="58" lt="58" ts="1415183085398" s="true" lb="http://qa.macmillanhighered.com/launchpad/myers10e/" rc="302" rm="Found" tn="" dt="" by="518"/>
+    <httpSample t="186" lt="185" ts="1415183085461" s="true" lb="http://qa.macmillanhighered.com/launchpad/myers10e/75652/ECommerce/Unauthenticated" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="text" by="24931"/>
+    <httpSample t="26" lt="17" ts="1415183085708" s="true" lb="http://qa.macmillanhighered.com/content/basestyle__R201411035385TServerTasks30593.css" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="text" by="39955"/>
+    <httpSample t="52" lt="25" ts="1415183085708" s="true" lb="http://qa.macmillanhighered.com/content/react_styles__R201411035385TServerTasks30593.css" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="text" by="101778"/>
+    <httpSample t="40" lt="29" ts="1415183085708" s="true" lb="http://qa.macmillanhighered.com/scripts/base__R201411035385TServerTasks30593.js" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="text" by="41821"/>
+  </httpSample>
+  <httpSample t="14" lt="14" ts="1415183085767" s="true" lb="/Scripts/tiny_mce/tiny_mce_gzip.js" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="text" by="2364">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="74" lt="18" ts="1415183085782" s="true" lb="/scripts/common__R201410305372TServerTasks30352.js" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="text" by="223968">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="161" lt="119" ts="1415183085863" s="true" lb="/Scripts/tiny_mce/tiny_mce_gzip.ashx" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="text" by="125892">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="25" lt="16" ts="1415183086029" s="true" lb="/scripts/highlight__R201410305372TServerTasks30352.js" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="text" by="48061">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="38" lt="17" ts="1415183086056" s="true" lb="/scripts/faceplate__R201410305372TServerTasks30352.js" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="text" by="93623">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="69" lt="19" ts="1415183086098" s="true" lb="/scripts/pxapp.min__R201410305372TServerTasks30352.js" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="text" by="196355">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="79" lt="78" ts="1415183086183" s="true" lb="/launchpad/myers10e/75652/ECommerce/GetNotificationsWithIds" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="" by="337">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="54" lt="53" ts="1415183086264" s="true" lb="/brainhoney/resource/6650/assets/pdx_files/px_redesign_images/logo_footer_mac-ed.png" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="bin" by="5286">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="42" lt="41" ts="1415183086319" s="true" lb="/brainhoney/resource/6650/assets/pdx_files/px_redesign_images/logo_imprint_worth.png" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="bin" by="6324">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="52" lt="51" ts="1415183086363" s="true" lb="/brainhoney/resource/6650/assets/pdx_files/px_redesign_images/logo-header-launchpad.png" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="bin" by="4523">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="706" lt="0" ts="1415183085919" s="true" lb="Launch" rc="200" rm="Number of samples in transaction : 11, number of failing samples : 0" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="" by="915735">
+  <assertionResult>
+    <name>Global Verification</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="282" lt="28" ts="1415183085919" s="true" lb="/launchpad/myers10e/" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="text" by="209002">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <httpSample t="28" lt="28" ts="1415183085919" s="true" lb="http://qa.macmillanhighered.com/launchpad/myers10e/" rc="302" rm="Found" tn="" dt="" by="518"/>
+    <httpSample t="192" lt="190" ts="1415183085948" s="true" lb="http://qa.macmillanhighered.com/launchpad/myers10e/75652/ECommerce/Unauthenticated" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="text" by="24930"/>
+    <httpSample t="26" lt="13" ts="1415183086153" s="true" lb="http://qa.macmillanhighered.com/content/basestyle__R201411035385TServerTasks30593.css" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="text" by="39955"/>
+    <httpSample t="40" lt="15" ts="1415183086153" s="true" lb="http://qa.macmillanhighered.com/content/react_styles__R201411035385TServerTasks30593.css" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="text" by="101778"/>
+    <httpSample t="48" lt="32" ts="1415183086153" s="true" lb="http://qa.macmillanhighered.com/scripts/base__R201411035385TServerTasks30593.js" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="text" by="41821"/>
+  </httpSample>
+  <httpSample t="13" lt="13" ts="1415183086261" s="true" lb="/Scripts/tiny_mce/tiny_mce_gzip.js" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="text" by="2364">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="68" lt="12" ts="1415183086275" s="true" lb="/scripts/common__R201410305372TServerTasks30352.js" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="text" by="223968">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="36" lt="10" ts="1415183086351" s="true" lb="/Scripts/tiny_mce/tiny_mce_gzip.ashx" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="text" by="125892">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="21" lt="12" ts="1415183086393" s="true" lb="/scripts/highlight__R201410305372TServerTasks30352.js" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="text" by="48061">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="30" lt="11" ts="1415183086416" s="true" lb="/scripts/faceplate__R201410305372TServerTasks30352.js" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="text" by="93623">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="58" lt="12" ts="1415183086450" s="true" lb="/scripts/pxapp.min__R201410305372TServerTasks30352.js" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="text" by="196355">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="37" lt="37" ts="1415183086519" s="true" lb="/launchpad/myers10e/75652/ECommerce/GetNotificationsWithIds" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="" by="337">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="62" lt="61" ts="1415183086558" s="true" lb="/brainhoney/resource/6650/assets/pdx_files/px_redesign_images/logo_footer_mac-ed.png" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="bin" by="5286">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="47" lt="45" ts="1415183086621" s="true" lb="/brainhoney/resource/6650/assets/pdx_files/px_redesign_images/logo_imprint_worth.png" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="bin" by="6324">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="52" lt="51" ts="1415183086669" s="true" lb="/brainhoney/resource/6650/assets/pdx_files/px_redesign_images/logo-header-launchpad.png" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="bin" by="4523">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="2305" lt="0" ts="1415183087449" s="true" lb="Login" rc="200" rm="Number of samples in transaction : 16, number of failing samples : 0" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="" by="1182903">
+  <assertionResult>
+    <name>Global Verification</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="117" lt="91" ts="1415183087450" s="true" lb="/brainhoney/resource/6650/assets/pdx_files/px_redesign_images/science/Myers10e_CoverFinal.jpg" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="bin" by="84376">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="245" lt="78" ts="1415183087571" s="true" lb="/brainhoney/resource/6650/assets/pdx_files/px_redesign_images/background/bg7.jpg" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="bin" by="692251">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="122" lt="122" ts="1415183087824" s="true" lb="/launchpad/myers10e/75652/Account/AuthenticateUser" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="text" by="1071">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="601" lt="577" ts="1415183088167" s="true" lb="/launchpad/myers10e/404783" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="text" by="28658">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <httpSample t="580" lt="577" ts="1415183088167" s="true" lb="http://qa.macmillanhighered.com/launchpad/myers10e/404783" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="text" by="27875"/>
+    <httpSample t="10" lt="10" ts="1415183088757" s="true" lb="http://qa.macmillanhighered.com/content/basestyle__R201411035385TServerTasks30593.css" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="" by="261"/>
+    <httpSample t="11" lt="11" ts="1415183088757" s="true" lb="http://qa.macmillanhighered.com/content/react_styles__R201411035385TServerTasks30593.css" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="" by="261"/>
+    <httpSample t="11" lt="11" ts="1415183088757" s="true" lb="http://qa.macmillanhighered.com/scripts/base__R201411035385TServerTasks30593.js" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="" by="261"/>
+  </httpSample>
+  <httpSample t="83" lt="83" ts="1415183088777" s="true" lb="/launchpad/myers10e/404783/ECommerce/GetNotificationsWithIds" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="" by="264">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="77" lt="77" ts="1415183088861" s="true" lb="/launchpad/myers10e/404783/Account/KeepAlive" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="" by="264">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="187" lt="186" ts="1415183088939" s="true" lb="/launchpad/myers10e/404783/StartWelcomeWidget/StartPage" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="text" by="4085">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="89" lt="89" ts="1415183089141" s="true" lb="/launchpad/myers10e/404783/ECommerce/GetNotificationsWithIds" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="" by="264">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="14" lt="14" ts="1415183089231" s="true" lb="/Scripts/StartWelcomeWidget/StartWelcome__R201410305372TServerTasks30352.js" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="text" by="769">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="20" lt="20" ts="1415183089245" s="true" lb="/Scripts/AssignmentWidget/AssignmentWidget__R201410305372TServerTasks30352.js" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="text" by="6798">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="294" lt="128" ts="1415183089266" s="true" lb="/brainhoney/component/FrameApi" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="text" by="266325">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <httpSample t="132" lt="128" ts="1415183089266" s="true" lb="http://qa.macmillanhighered.com/brainhoney/component/FrameApi?showBeforeUnloadPrompts=false&amp;xdm_e=http%3A%2F%2Fqa.macmillanhighered.com%2Flaunchpad%2Fmyers10e%2F404783&amp;xdm_c=default232&amp;xdm_p=4" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="text" by="8441"/>
+    <httpSample t="41" lt="38" ts="1415183089408" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Scripts/ext-3.0.0-2/resources/css/ext-all.css" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="text" by="22170"/>
+    <httpSample t="23" lt="22" ts="1415183089408" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Styles_vv1CFADB3F46A3FCE.css" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="text" by="14764"/>
+    <httpSample t="27" lt="27" ts="1415183089408" s="true" lb="http://qa.macmillanhighered.com/brainhoney/StylesOld_vv1CFADB3F46CA12F.css" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="text" by="575"/>
+    <httpSample t="20" lt="20" ts="1415183089409" s="true" lb="http://qa.macmillanhighered.com/brainhoney/IE6Styles.css" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="text" by="7168"/>
+    <httpSample t="34" lt="34" ts="1415183089409" s="true" lb="http://qa.macmillanhighered.com/brainhoney/resource/175768/px_overrides.css" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="text" by="1375"/>
+    <httpSample t="150" lt="46" ts="1415183089410" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Scripts/ext-3.0.0-2/ext-comb12.js" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="text" by="201452"/>
+    <httpSample t="20" lt="20" ts="1415183089429" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Scripts/ext-3.0.0-2/locale/ext-lang-en.js" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="text" by="3230"/>
+    <httpSample t="18" lt="18" ts="1415183089432" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Scripts/easyXDM-2.4.12.108/easyXDM.min.js" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="text" by="7150"/>
+  </httpSample>
+  <httpSample t="26" lt="25" ts="1415183089564" s="true" lb="/Scripts/RssFeed/RssFeed__R201410305372TServerTasks30352.js" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="text" by="4719">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="33" lt="17" ts="1415183089591" s="true" lb="/app/build/d336074d438e25fe55e354ebe0cb30a8.png" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="bin" by="75523">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="13" lt="13" ts="1415183089626" s="true" lb="/brainhoney/Scripts/ext-3.0.0-2/locale/ext-lang-en.js" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="" by="374">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="12" lt="12" ts="1415183089640" s="true" lb="/brainhoney/Styles_vv1CFADB3F46A3FCE.css" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="" by="374">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="372" lt="370" ts="1415183089653" s="true" lb="/launchpad/myers10e/404783/RSSFeedWidget/PartialListView" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="text" by="16788">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="2111" lt="0" ts="1415183089777" s="true" lb="Login" rc="200" rm="Number of samples in transaction : 16, number of failing samples : 0" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="" by="1182874">
+  <assertionResult>
+    <name>Global Verification</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="73" lt="57" ts="1415183089778" s="true" lb="/brainhoney/resource/6650/assets/pdx_files/px_redesign_images/science/Myers10e_CoverFinal.jpg" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="bin" by="84376">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="236" lt="73" ts="1415183089857" s="true" lb="/brainhoney/resource/6650/assets/pdx_files/px_redesign_images/background/bg7.jpg" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="bin" by="692251">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="88" lt="88" ts="1415183090101" s="true" lb="/launchpad/myers10e/75652/Account/AuthenticateUser" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="text" by="1071">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="293" lt="269" ts="1415183090198" s="true" lb="/launchpad/myers10e/404783" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="text" by="28653">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <httpSample t="272" lt="269" ts="1415183090198" s="true" lb="http://qa.macmillanhighered.com/launchpad/myers10e/404783" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="text" by="27870"/>
+    <httpSample t="9" lt="9" ts="1415183090482" s="true" lb="http://qa.macmillanhighered.com/content/basestyle__R201411035385TServerTasks30593.css" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="" by="261"/>
+    <httpSample t="9" lt="9" ts="1415183090482" s="true" lb="http://qa.macmillanhighered.com/content/react_styles__R201411035385TServerTasks30593.css" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="" by="261"/>
+    <httpSample t="9" lt="9" ts="1415183090482" s="true" lb="http://qa.macmillanhighered.com/scripts/base__R201411035385TServerTasks30593.js" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="" by="261"/>
+  </httpSample>
+  <httpSample t="81" lt="81" ts="1415183090496" s="true" lb="/launchpad/myers10e/404783/ECommerce/GetNotificationsWithIds" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="" by="264">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="89" lt="89" ts="1415183090578" s="true" lb="/launchpad/myers10e/404783/Account/KeepAlive" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="" by="264">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="199" lt="199" ts="1415183090667" s="true" lb="/launchpad/myers10e/404783/StartWelcomeWidget/StartPage" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="text" by="4084">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="72" lt="72" ts="1415183090872" s="true" lb="/launchpad/myers10e/404783/ECommerce/GetNotificationsWithIds" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="" by="264">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="14" lt="14" ts="1415183090945" s="true" lb="/Scripts/StartWelcomeWidget/StartWelcome__R201410305372TServerTasks30352.js" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="text" by="769">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="16" lt="16" ts="1415183090960" s="true" lb="/Scripts/AssignmentWidget/AssignmentWidget__R201410305372TServerTasks30352.js" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="text" by="6798">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="538" lt="373" ts="1415183090977" s="true" lb="/brainhoney/component/FrameApi" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="text" by="266300">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <httpSample t="374" lt="373" ts="1415183090977" s="true" lb="http://qa.macmillanhighered.com/brainhoney/component/FrameApi?showBeforeUnloadPrompts=false&amp;xdm_e=http%3A%2F%2Fqa.macmillanhighered.com%2Flaunchpad%2Fmyers10e%2F404783&amp;xdm_c=default232&amp;xdm_p=4" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="text" by="8439"/>
+    <httpSample t="35" lt="32" ts="1415183091358" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Scripts/ext-3.0.0-2/resources/css/ext-all.css" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="text" by="22170"/>
+    <httpSample t="46" lt="45" ts="1415183091358" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Styles_vv1CFADB3F46A3FCE.css" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="text" by="14764"/>
+    <httpSample t="30" lt="30" ts="1415183091358" s="true" lb="http://qa.macmillanhighered.com/brainhoney/StylesOld_vv1CFADB3F46CA12F.css" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="text" by="575"/>
+    <httpSample t="31" lt="31" ts="1415183091359" s="true" lb="http://qa.macmillanhighered.com/brainhoney/IE6Styles.css" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="text" by="7167"/>
+    <httpSample t="11" lt="11" ts="1415183091359" s="true" lb="http://qa.macmillanhighered.com/brainhoney/resource/175768/px_overrides.css" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="text" by="1353"/>
+    <httpSample t="156" lt="50" ts="1415183091359" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Scripts/ext-3.0.0-2/ext-comb12.js" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="text" by="201452"/>
+    <httpSample t="29" lt="29" ts="1415183091371" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Scripts/ext-3.0.0-2/locale/ext-lang-en.js" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="text" by="3230"/>
+    <httpSample t="21" lt="21" ts="1415183091389" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Scripts/easyXDM-2.4.12.108/easyXDM.min.js" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="text" by="7150"/>
+  </httpSample>
+  <httpSample t="30" lt="30" ts="1415183091520" s="true" lb="/Scripts/RssFeed/RssFeed__R201410305372TServerTasks30352.js" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="text" by="4719">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="31" lt="16" ts="1415183091551" s="true" lb="/app/build/d336074d438e25fe55e354ebe0cb30a8.png" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="bin" by="75523">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="15" lt="15" ts="1415183091584" s="true" lb="/brainhoney/Scripts/ext-3.0.0-2/locale/ext-lang-en.js" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="" by="374">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="14" lt="14" ts="1415183091599" s="true" lb="/brainhoney/Styles_vv1CFADB3F46A3FCE.css" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="" by="374">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="322" lt="321" ts="1415183091613" s="true" lb="/launchpad/myers10e/404783/RSSFeedWidget/PartialListView" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="text" by="16790">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="665" lt="0" ts="1415183092265" s="true" lb="Enter Your Course" rc="200" rm="Number of samples in transaction : 3, number of failing samples : 0" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="" by="30007">
+  <assertionResult>
+    <name>Global Verification</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="111" lt="111" ts="1415183092265" s="true" lb="/launchpad/myers10e/404783/AssignmentWidget/LaunchPad" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="text" by="638">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="95" lt="95" ts="1415183092377" s="true" lb="/launchpad/myers10e/404783/BrowseMoreResourcesWidget/Index" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="text" by="2822">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="459" lt="455" ts="1415183092473" s="true" lb="/launchpad/myers10e/404783/LaunchpadTreeWidget/Index" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="text" by="26547">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <httpSample t="459" lt="455" ts="1415183092473" s="true" lb="http://qa.macmillanhighered.com/launchpad/myers10e/404783/LaunchpadTreeWidget/Index" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="text" by="26547"/>
+  </httpSample>
+</sample>
+<sample t="723" lt="0" ts="1415183093473" s="true" lb="Enter Your Course" rc="200" rm="Number of samples in transaction : 3, number of failing samples : 0" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="" by="30007">
+  <assertionResult>
+    <name>Global Verification</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="118" lt="118" ts="1415183093473" s="true" lb="/launchpad/myers10e/404783/AssignmentWidget/LaunchPad" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="text" by="638">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="76" lt="76" ts="1415183093593" s="true" lb="/launchpad/myers10e/404783/BrowseMoreResourcesWidget/Index" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="text" by="2822">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="529" lt="526" ts="1415183093670" s="true" lb="/launchpad/myers10e/404783/LaunchpadTreeWidget/Index" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="text" by="26547">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <httpSample t="529" lt="526" ts="1415183093670" s="true" lb="http://qa.macmillanhighered.com/launchpad/myers10e/404783/LaunchpadTreeWidget/Index" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="text" by="26547"/>
+  </httpSample>
+</sample>
+<sample t="680" lt="0" ts="1415183094220" s="true" lb="Enter Assignment" rc="200" rm="Number of samples in transaction : 4, number of failing samples : 0" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="" by="80033">
+  <assertionResult>
+    <name>Global Verification</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="189" lt="189" ts="1415183094220" s="true" lb="/launchpad/myers10e/404783/ContentWidget/DisplayItemInJson" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="text" by="14598">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="185" lt="185" ts="1415183094411" s="true" lb="/launchpad/myers10e/404783/ContentWidget/DisplayItemInJson" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="text" by="14598">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="279" lt="278" ts="1415183094597" s="true" lb="/launchpad/myers10e/404783/ContentWidget/DisplayItem/8237fdca6e334e5ba471c64e475e6ab5" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="text" by="3793">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="27" lt="18" ts="1415183094879" s="true" lb="/scripts/quiz__R201410305372TServerTasks30352.js" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="text" by="47044">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="634" lt="0" ts="1415183095099" s="true" lb="Enter Assignment" rc="200" rm="Number of samples in transaction : 4, number of failing samples : 0" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="" by="80033">
+  <assertionResult>
+    <name>Global Verification</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="185" lt="184" ts="1415183095099" s="true" lb="/launchpad/myers10e/404783/ContentWidget/DisplayItemInJson" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="text" by="14598">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="176" lt="176" ts="1415183095285" s="true" lb="/launchpad/myers10e/404783/ContentWidget/DisplayItemInJson" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="text" by="14598">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="247" lt="246" ts="1415183095461" s="true" lb="/launchpad/myers10e/404783/ContentWidget/DisplayItem/8237fdca6e334e5ba471c64e475e6ab5" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="text" by="3793">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="26" lt="13" ts="1415183095710" s="true" lb="/scripts/quiz__R201410305372TServerTasks30352.js" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="text" by="47044">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="3269" lt="0" ts="1415183095289" s="true" lb="Start The Quiz" rc="200" rm="Number of samples in transaction : 10, number of failing samples : 0" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="" by="238151">
+  <assertionResult>
+    <name>Global Verification</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="232" lt="232" ts="1415183095289" s="true" lb="/launchpad/myers10e/404783/Quiz/ShowQuiz" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="text" by="2229">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="345" lt="236" ts="1415183095541" s="true" lb="/brainhoney/component/ActivityPlayer" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="text" by="182813">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <httpSample t="240" lt="236" ts="1415183095541" s="true" lb="http://qa.macmillanhighered.com/brainhoney/component/ActivityPlayer?EnrollmentId=404847&amp;ItemId=8237fdca6e334e5ba471c64e475e6ab5&amp;ShowHeader=False&amp;Extra=autostart%5Etrue%7Cgroup%5E0%7CshowDirections%5E0%7Caction=active&amp;showBeforeUnloadPrompts=false&amp;xdm_e=http://qa.macmillanhighered.com/launchpad/myers10e/404783&amp;xdm_c=default233&amp;xdm_p=4" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="text" by="13596"/>
+    <httpSample t="15" lt="15" ts="1415183095791" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Scripts/ext-3.0.0-2/resources/css/ext-all.css" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="" by="374"/>
+    <httpSample t="20" lt="20" ts="1415183095791" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Styles_vv1CFADB3F46A3FCE.css" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="" by="374"/>
+    <httpSample t="18" lt="18" ts="1415183095791" s="true" lb="http://qa.macmillanhighered.com/brainhoney/StylesOld_vv1CFADB3F46CA12F.css" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="" by="375"/>
+    <httpSample t="17" lt="17" ts="1415183095792" s="true" lb="http://qa.macmillanhighered.com/brainhoney/IE6Styles.css" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="" by="267"/>
+    <httpSample t="9" lt="9" ts="1415183095792" s="true" lb="http://qa.macmillanhighered.com/brainhoney/resource/175768/px_overrides.css" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="" by="268"/>
+    <httpSample t="39" lt="39" ts="1415183095792" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Resource/404783/assets/launchpad_bh_component.css" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="text" by="1584"/>
+    <httpSample t="13" lt="13" ts="1415183095801" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Scripts/ext-3.0.0-2/ext-comb12.js" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="" by="374"/>
+    <httpSample t="13" lt="13" ts="1415183095806" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Scripts/ext-3.0.0-2/locale/ext-lang-en.js" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="" by="374"/>
+    <httpSample t="12" lt="12" ts="1415183095809" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Scripts/easyXDM-2.4.12.108/easyXDM.min.js" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="" by="374"/>
+    <httpSample t="29" lt="26" ts="1415183095809" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Scripts/svgweb-20110203/svg.js" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="text" by="27277"/>
+    <httpSample t="75" lt="36" ts="1415183095811" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Scripts/tiny_mce-3.5.3/tiny_mce.js" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="text" by="98741"/>
+    <httpSample t="15" lt="15" ts="1415183095814" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Scripts/MediaLoader_vv1CFADB409966393.js" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="text" by="3109"/>
+    <httpSample t="34" lt="26" ts="1415183095819" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Scripts/Player_vv1CFADB4099B2655.js" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="text" by="32961"/>
+    <httpSample t="17" lt="17" ts="1415183095822" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Scripts/BoilerPlate_vv1CFADB40964669E.js" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="text" by="2765"/>
+  </httpSample>
+  <httpSample t="15" lt="15" ts="1415183095891" s="true" lb="/brainhoney/Scripts/ext-3.0.0-2/resources/images/default/qtip/tip-anchor-sprite.gif" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="bin" by="1331">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="23" lt="23" ts="1415183095907" s="true" lb="/brainhoney/Scripts/ext-3.0.0-2/resources/images/default/qtip/tip-sprite.gif" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="bin" by="4651">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="1415" lt="1268" ts="1415183095930" s="true" lb="/brainhoney/Content/Template.aspx" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="text" by="23362">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <httpSample t="1276" lt="1268" ts="1415183095930" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Content/Template.aspx?enrollmentid=404847&amp;itemid=8237fdca6e334e5ba471c64e475e6ab5&amp;extra=autostart%5etrue%7cgroup%5e0%7cshowDirections%5e0%7caction%3dactive" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="text" by="5209"/>
+    <httpSample t="137" lt="87" ts="1415183097208" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Content/Exam/Player.aspx?enrollmentid=404847&amp;itemid=8237fdca6e334e5ba471c64e475e6ab5&amp;autostart=true&amp;group=0&amp;showDirections=0&amp;action=active" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="text" by="18153">
+      <httpSample t="95" lt="87" ts="1415183097208" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Content/Exam/Player.aspx?enrollmentid=404847&amp;itemid=8237fdca6e334e5ba471c64e475e6ab5&amp;autostart=true&amp;group=0&amp;showDirections=0&amp;action=active" rc="200" rm="OK" tn="Thread-33" dt="text" by="10997"/>
+      <httpSample t="15" lt="15" ts="1415183097308" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Scripts/ext-3.0.0-2/resources/css/ext-all.css" rc="304" rm="Not Modified" tn="Thread-33" dt="" by="374"/>
+      <httpSample t="13" lt="13" ts="1415183097309" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Styles_vv1CFADB3F46A3FCE.css" rc="304" rm="Not Modified" tn="Thread-33" dt="" by="375"/>
+      <httpSample t="16" lt="16" ts="1415183097309" s="true" lb="http://qa.macmillanhighered.com/brainhoney/StylesOld_vv1CFADB3F46CA12F.css" rc="304" rm="Not Modified" tn="Thread-33" dt="" by="374"/>
+      <httpSample t="17" lt="17" ts="1415183097310" s="true" lb="http://qa.macmillanhighered.com/brainhoney/IE6Styles.css" rc="304" rm="Not Modified" tn="Thread-33" dt="" by="266"/>
+      <httpSample t="10" lt="10" ts="1415183097309" s="true" lb="http://qa.macmillanhighered.com/brainhoney/resource/175768/px_overrides.css" rc="304" rm="Not Modified" tn="Thread-33" dt="" by="268"/>
+      <httpSample t="16" lt="16" ts="1415183097309" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Scripts/ext-3.0.0-2/ext-comb12.js" rc="304" rm="Not Modified" tn="Thread-33" dt="" by="374"/>
+      <httpSample t="13" lt="13" ts="1415183097319" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Scripts/ext-3.0.0-2/locale/ext-lang-en.js" rc="304" rm="Not Modified" tn="Thread-33" dt="" by="374"/>
+      <httpSample t="14" lt="14" ts="1415183097322" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Scripts/tiny_mce-3.5.3/tiny_mce.js" rc="304" rm="Not Modified" tn="Thread-33" dt="" by="375"/>
+      <httpSample t="13" lt="13" ts="1415183097323" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Scripts/Api_vv1CFADB40962053D.js" rc="200" rm="OK" tn="Thread-33" dt="text" by="725"/>
+      <httpSample t="15" lt="15" ts="1415183097325" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Scripts/Exam_vv1CFADB40979D307.js" rc="200" rm="OK" tn="Thread-33" dt="text" by="2529"/>
+      <httpSample t="15" lt="15" ts="1415183097325" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Scripts/BoilerPlate_vv1CFADB40964669E.js" rc="304" rm="Not Modified" tn="Thread-33" dt="" by="374"/>
+      <httpSample t="12" lt="12" ts="1415183097328" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Scripts/MediaLoader_vv1CFADB409966393.js" rc="304" rm="Not Modified" tn="Thread-33" dt="" by="374"/>
+      <httpSample t="13" lt="13" ts="1415183097332" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Scripts/easyXDM-2.4.12.108/easyXDM.min.js" rc="304" rm="Not Modified" tn="Thread-33" dt="" by="374"/>
+    </httpSample>
+  </httpSample>
+  <httpSample t="125" lt="81" ts="1415183097349" s="true" lb="/brainhoney/Content/Exam/Player.aspx" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="text" by="15647">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <httpSample t="82" lt="81" ts="1415183097349" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Content/Exam/Player.aspx?enrollmentid=404847&amp;itemid=8237fdca6e334e5ba471c64e475e6ab5&amp;autostart=true&amp;group=0&amp;showDirections=0&amp;action=active" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="text" by="10999"/>
+    <httpSample t="18" lt="18" ts="1415183097437" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Scripts/ext-3.0.0-2/resources/css/ext-all.css" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="" by="374"/>
+    <httpSample t="14" lt="14" ts="1415183097438" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Styles_vv1CFADB3F46A3FCE.css" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="" by="374"/>
+    <httpSample t="14" lt="14" ts="1415183097438" s="true" lb="http://qa.macmillanhighered.com/brainhoney/StylesOld_vv1CFADB3F46CA12F.css" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="" by="374"/>
+    <httpSample t="16" lt="16" ts="1415183097438" s="true" lb="http://qa.macmillanhighered.com/brainhoney/IE6Styles.css" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="" by="266"/>
+    <httpSample t="12" lt="12" ts="1415183097438" s="true" lb="http://qa.macmillanhighered.com/brainhoney/resource/175768/px_overrides.css" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="" by="268"/>
+    <httpSample t="18" lt="18" ts="1415183097439" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Scripts/ext-3.0.0-2/ext-comb12.js" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="" by="374"/>
+    <httpSample t="12" lt="12" ts="1415183097450" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Scripts/ext-3.0.0-2/locale/ext-lang-en.js" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="" by="374"/>
+    <httpSample t="12" lt="12" ts="1415183097453" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Scripts/tiny_mce-3.5.3/tiny_mce.js" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="" by="374"/>
+    <httpSample t="17" lt="17" ts="1415183097453" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Scripts/Api_vv1CFADB40962053D.js" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="" by="374"/>
+    <httpSample t="16" lt="16" ts="1415183097455" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Scripts/Exam_vv1CFADB40979D307.js" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="" by="374"/>
+    <httpSample t="16" lt="15" ts="1415183097455" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Scripts/BoilerPlate_vv1CFADB40964669E.js" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="" by="374"/>
+    <httpSample t="14" lt="14" ts="1415183097457" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Scripts/MediaLoader_vv1CFADB409966393.js" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="" by="374"/>
+    <httpSample t="12" lt="12" ts="1415183097462" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Scripts/easyXDM-2.4.12.108/easyXDM.min.js" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="" by="374"/>
+  </httpSample>
+  <httpSample t="14" lt="14" ts="1415183097478" s="true" lb="/brainhoney/Scripts/ext-3.0.0-2/resources/images/default/grid/loading.gif" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="bin" by="1151">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="827" lt="817" ts="1415183097493" s="true" lb="/brainhoney/Content/Exam/active.aspx" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="text" by="3485">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <httpSample t="817" lt="817" ts="1415183097493" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Content/Exam/active.aspx?enrollmentid=404847&amp;itemid=8237fdca6e334e5ba471c64e475e6ab5&amp;action=active" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="text" by="3217"/>
+    <httpSample t="8" lt="8" ts="1415183098312" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Resource/404783/assets/launchpad_bh_component.css" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="" by="268"/>
+  </httpSample>
+  <httpSample t="15" lt="15" ts="1415183098323" s="true" lb="/brainhoney/Images/btn.gif" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="bin" by="3152">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="258" lt="258" ts="1415183098338" s="true" lb="/launchpad/myers10e/404783/Log/LogSubmissionActivity" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="text" by="330">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="2119" lt="0" ts="1415183099060" s="true" lb="Start The Quiz" rc="200" rm="Number of samples in transaction : 10, number of failing samples : 0" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="" by="238126">
+  <assertionResult>
+    <name>Global Verification</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="237" lt="237" ts="1415183099060" s="true" lb="/launchpad/myers10e/404783/Quiz/ShowQuiz" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="text" by="2229">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="302" lt="203" ts="1415183099300" s="true" lb="/brainhoney/component/ActivityPlayer" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="text" by="182790">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <httpSample t="204" lt="203" ts="1415183099300" s="true" lb="http://qa.macmillanhighered.com/brainhoney/component/ActivityPlayer?EnrollmentId=404847&amp;ItemId=8237fdca6e334e5ba471c64e475e6ab5&amp;ShowHeader=False&amp;Extra=autostart%5Etrue%7Cgroup%5E0%7CshowDirections%5E0%7Caction=active&amp;showBeforeUnloadPrompts=false&amp;xdm_e=http://qa.macmillanhighered.com/launchpad/myers10e/404783&amp;xdm_c=default233&amp;xdm_p=4" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="text" by="13596"/>
+    <httpSample t="19" lt="19" ts="1415183099512" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Scripts/ext-3.0.0-2/resources/css/ext-all.css" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="" by="374"/>
+    <httpSample t="14" lt="14" ts="1415183099513" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Styles_vv1CFADB3F46A3FCE.css" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="" by="374"/>
+    <httpSample t="14" lt="14" ts="1415183099513" s="true" lb="http://qa.macmillanhighered.com/brainhoney/StylesOld_vv1CFADB3F46CA12F.css" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="" by="374"/>
+    <httpSample t="19" lt="19" ts="1415183099513" s="true" lb="http://qa.macmillanhighered.com/brainhoney/IE6Styles.css" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="" by="266"/>
+    <httpSample t="10" lt="10" ts="1415183099513" s="true" lb="http://qa.macmillanhighered.com/brainhoney/resource/175768/px_overrides.css" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="" by="268"/>
+    <httpSample t="10" lt="10" ts="1415183099513" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Resource/404783/assets/launchpad_bh_component.css" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="text" by="1562"/>
+    <httpSample t="13" lt="13" ts="1415183099523" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Scripts/ext-3.0.0-2/ext-comb12.js" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="" by="374"/>
+    <httpSample t="13" lt="13" ts="1415183099524" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Scripts/ext-3.0.0-2/locale/ext-lang-en.js" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="" by="374"/>
+    <httpSample t="15" lt="15" ts="1415183099527" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Scripts/easyXDM-2.4.12.108/easyXDM.min.js" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="" by="375"/>
+    <httpSample t="39" lt="31" ts="1415183099527" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Scripts/svgweb-20110203/svg.js" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="text" by="27277"/>
+    <httpSample t="71" lt="27" ts="1415183099531" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Scripts/tiny_mce-3.5.3/tiny_mce.js" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="text" by="98741"/>
+    <httpSample t="16" lt="16" ts="1415183099532" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Scripts/MediaLoader_vv1CFADB409966393.js" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="text" by="3109"/>
+    <httpSample t="39" lt="31" ts="1415183099536" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Scripts/Player_vv1CFADB4099B2655.js" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="text" by="32961"/>
+    <httpSample t="24" lt="24" ts="1415183099537" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Scripts/BoilerPlate_vv1CFADB40964669E.js" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="text" by="2765"/>
+  </httpSample>
+  <httpSample t="17" lt="17" ts="1415183099606" s="true" lb="/brainhoney/Scripts/ext-3.0.0-2/resources/images/default/qtip/tip-anchor-sprite.gif" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="bin" by="1331">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="15" lt="15" ts="1415183099624" s="true" lb="/brainhoney/Scripts/ext-3.0.0-2/resources/images/default/qtip/tip-sprite.gif" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="bin" by="4651">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="992" lt="862" ts="1415183099640" s="true" lb="/brainhoney/Content/Template.aspx" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="text" by="23361">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <httpSample t="862" lt="862" ts="1415183099640" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Content/Template.aspx?enrollmentid=404847&amp;itemid=8237fdca6e334e5ba471c64e475e6ab5&amp;extra=autostart%5etrue%7cgroup%5e0%7cshowDirections%5e0%7caction%3dactive" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="text" by="5209"/>
+    <httpSample t="127" lt="85" ts="1415183100505" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Content/Exam/Player.aspx?enrollmentid=404847&amp;itemid=8237fdca6e334e5ba471c64e475e6ab5&amp;autostart=true&amp;group=0&amp;showDirections=0&amp;action=active" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="text" by="18152">
+      <httpSample t="86" lt="85" ts="1415183100505" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Content/Exam/Player.aspx?enrollmentid=404847&amp;itemid=8237fdca6e334e5ba471c64e475e6ab5&amp;autostart=true&amp;group=0&amp;showDirections=0&amp;action=active" rc="200" rm="OK" tn="Thread-53" dt="text" by="10996"/>
+      <httpSample t="22" lt="22" ts="1415183100594" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Scripts/ext-3.0.0-2/resources/css/ext-all.css" rc="304" rm="Not Modified" tn="Thread-53" dt="" by="374"/>
+      <httpSample t="15" lt="15" ts="1415183100594" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Styles_vv1CFADB3F46A3FCE.css" rc="304" rm="Not Modified" tn="Thread-53" dt="" by="374"/>
+      <httpSample t="15" lt="15" ts="1415183100594" s="true" lb="http://qa.macmillanhighered.com/brainhoney/StylesOld_vv1CFADB3F46CA12F.css" rc="304" rm="Not Modified" tn="Thread-53" dt="" by="374"/>
+      <httpSample t="18" lt="18" ts="1415183100595" s="true" lb="http://qa.macmillanhighered.com/brainhoney/IE6Styles.css" rc="304" rm="Not Modified" tn="Thread-53" dt="" by="266"/>
+      <httpSample t="9" lt="9" ts="1415183100595" s="true" lb="http://qa.macmillanhighered.com/brainhoney/resource/175768/px_overrides.css" rc="304" rm="Not Modified" tn="Thread-53" dt="" by="268"/>
+      <httpSample t="19" lt="19" ts="1415183100595" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Scripts/ext-3.0.0-2/ext-comb12.js" rc="304" rm="Not Modified" tn="Thread-53" dt="" by="374"/>
+      <httpSample t="14" lt="14" ts="1415183100604" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Scripts/ext-3.0.0-2/locale/ext-lang-en.js" rc="304" rm="Not Modified" tn="Thread-53" dt="" by="375"/>
+      <httpSample t="14" lt="14" ts="1415183100609" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Scripts/tiny_mce-3.5.3/tiny_mce.js" rc="304" rm="Not Modified" tn="Thread-53" dt="" by="374"/>
+      <httpSample t="15" lt="15" ts="1415183100609" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Scripts/Api_vv1CFADB40962053D.js" rc="200" rm="OK" tn="Thread-53" dt="text" by="725"/>
+      <httpSample t="16" lt="16" ts="1415183100613" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Scripts/Exam_vv1CFADB40979D307.js" rc="200" rm="OK" tn="Thread-53" dt="text" by="2529"/>
+      <httpSample t="14" lt="14" ts="1415183100614" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Scripts/BoilerPlate_vv1CFADB40964669E.js" rc="304" rm="Not Modified" tn="Thread-53" dt="" by="374"/>
+      <httpSample t="13" lt="13" ts="1415183100616" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Scripts/MediaLoader_vv1CFADB409966393.js" rc="304" rm="Not Modified" tn="Thread-53" dt="" by="374"/>
+      <httpSample t="14" lt="14" ts="1415183100618" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Scripts/easyXDM-2.4.12.108/easyXDM.min.js" rc="304" rm="Not Modified" tn="Thread-53" dt="" by="375"/>
+    </httpSample>
+  </httpSample>
+  <httpSample t="125" lt="80" ts="1415183100635" s="true" lb="/brainhoney/Content/Exam/Player.aspx" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="text" by="15646">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <httpSample t="81" lt="80" ts="1415183100635" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Content/Exam/Player.aspx?enrollmentid=404847&amp;itemid=8237fdca6e334e5ba471c64e475e6ab5&amp;autostart=true&amp;group=0&amp;showDirections=0&amp;action=active" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="text" by="10997"/>
+    <httpSample t="17" lt="17" ts="1415183100722" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Scripts/ext-3.0.0-2/resources/css/ext-all.css" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="" by="374"/>
+    <httpSample t="15" lt="15" ts="1415183100722" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Styles_vv1CFADB3F46A3FCE.css" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="" by="374"/>
+    <httpSample t="19" lt="19" ts="1415183100722" s="true" lb="http://qa.macmillanhighered.com/brainhoney/StylesOld_vv1CFADB3F46CA12F.css" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="" by="375"/>
+    <httpSample t="13" lt="13" ts="1415183100723" s="true" lb="http://qa.macmillanhighered.com/brainhoney/IE6Styles.css" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="" by="266"/>
+    <httpSample t="9" lt="9" ts="1415183100723" s="true" lb="http://qa.macmillanhighered.com/brainhoney/resource/175768/px_overrides.css" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="" by="268"/>
+    <httpSample t="23" lt="23" ts="1415183100723" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Scripts/ext-3.0.0-2/ext-comb12.js" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="" by="374"/>
+    <httpSample t="14" lt="14" ts="1415183100732" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Scripts/ext-3.0.0-2/locale/ext-lang-en.js" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="" by="374"/>
+    <httpSample t="14" lt="14" ts="1415183100736" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Scripts/tiny_mce-3.5.3/tiny_mce.js" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="" by="374"/>
+    <httpSample t="17" lt="17" ts="1415183100737" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Scripts/Api_vv1CFADB40962053D.js" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="" by="374"/>
+    <httpSample t="14" lt="14" ts="1415183100739" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Scripts/Exam_vv1CFADB40979D307.js" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="" by="374"/>
+    <httpSample t="14" lt="14" ts="1415183100741" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Scripts/BoilerPlate_vv1CFADB40964669E.js" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="" by="374"/>
+    <httpSample t="14" lt="14" ts="1415183100746" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Scripts/MediaLoader_vv1CFADB409966393.js" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="" by="374"/>
+    <httpSample t="13" lt="13" ts="1415183100746" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Scripts/easyXDM-2.4.12.108/easyXDM.min.js" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="" by="374"/>
+  </httpSample>
+  <httpSample t="16" lt="16" ts="1415183100767" s="true" lb="/brainhoney/Scripts/ext-3.0.0-2/resources/images/default/grid/loading.gif" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="bin" by="1151">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="264" lt="252" ts="1415183100784" s="true" lb="/brainhoney/Content/Exam/active.aspx" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="text" by="3485">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <httpSample t="253" lt="252" ts="1415183100784" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Content/Exam/active.aspx?enrollmentid=404847&amp;itemid=8237fdca6e334e5ba471c64e475e6ab5&amp;action=active" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="text" by="3217"/>
+    <httpSample t="10" lt="10" ts="1415183101038" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Resource/404783/assets/launchpad_bh_component.css" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="" by="268"/>
+  </httpSample>
+  <httpSample t="17" lt="17" ts="1415183101049" s="true" lb="/brainhoney/Images/btn.gif" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="bin" by="3152">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="134" lt="134" ts="1415183101067" s="true" lb="/launchpad/myers10e/404783/Log/LogSubmissionActivity" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="text" by="330">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="167" lt="0" ts="1415183101834" s="true" lb="Select Radio Answer and Submit" rc="200" rm="Number of samples in transaction : 10, number of failing samples : 0" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="" by="14240">
+  <assertionResult>
+    <name>Global Verification</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="19" lt="19" ts="1415183101834" s="true" lb="/brainhoney/Scripts/ext-3.0.0-2/resources/images/gray/window/left-corners.png" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="bin" by="705">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="20" lt="18" ts="1415183101854" s="true" lb="/brainhoney/Scripts/ext-3.0.0-2/resources/images/gray/window/left-right.png" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="bin" by="3195">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="16" lt="15" ts="1415183101874" s="true" lb="/brainhoney/Scripts/ext-3.0.0-2/resources/images/default/shadow-lr.png" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="bin" by="515">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="15" lt="15" ts="1415183101890" s="true" lb="/brainhoney/Scripts/ext-3.0.0-2/resources/images/gray/window/right-corners.png" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="bin" by="724">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="19" lt="19" ts="1415183101906" s="true" lb="/brainhoney/Scripts/ext-3.0.0-2/resources/images/default/qtip/bg.gif" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="bin" by="1471">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="15" lt="15" ts="1415183101926" s="true" lb="/brainhoney/Scripts/ext-3.0.0-2/resources/images/default/shadow.png" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="bin" by="691">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="17" lt="17" ts="1415183101942" s="true" lb="/brainhoney/Scripts/ext-3.0.0-2/resources/images/default/window/icon-question.gif" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="bin" by="1987">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="16" lt="16" ts="1415183101959" s="true" lb="/brainhoney/Scripts/ext-3.0.0-2/resources/images/gray/window/top-bottom.png" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="bin" by="3240">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="14" lt="14" ts="1415183101976" s="true" lb="/brainhoney/Scripts/ext-3.0.0-2/resources/images/default/shadow-c.png" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="bin" by="498">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="16" lt="16" ts="1415183101991" s="true" lb="/brainhoney/Scripts/ext-3.0.0-2/resources/images/default/progress/progress-bg.gif" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="bin" by="1214">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="222" lt="0" ts="1415183102146" s="true" lb="Select Radio Answer and Submit" rc="200" rm="Number of samples in transaction : 10, number of failing samples : 0" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="" by="14240">
+  <assertionResult>
+    <name>Global Verification</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="16" lt="16" ts="1415183102146" s="true" lb="/brainhoney/Scripts/ext-3.0.0-2/resources/images/gray/window/left-corners.png" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="bin" by="705">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="31" lt="31" ts="1415183102162" s="true" lb="/brainhoney/Scripts/ext-3.0.0-2/resources/images/gray/window/left-right.png" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="bin" by="3195">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="16" lt="16" ts="1415183102193" s="true" lb="/brainhoney/Scripts/ext-3.0.0-2/resources/images/default/shadow-lr.png" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="bin" by="515">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="14" lt="14" ts="1415183102210" s="true" lb="/brainhoney/Scripts/ext-3.0.0-2/resources/images/gray/window/right-corners.png" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="bin" by="724">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="26" lt="26" ts="1415183102224" s="true" lb="/brainhoney/Scripts/ext-3.0.0-2/resources/images/default/qtip/bg.gif" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="bin" by="1471">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="14" lt="14" ts="1415183102251" s="true" lb="/brainhoney/Scripts/ext-3.0.0-2/resources/images/default/shadow.png" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="bin" by="691">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="15" lt="15" ts="1415183102265" s="true" lb="/brainhoney/Scripts/ext-3.0.0-2/resources/images/default/window/icon-question.gif" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="bin" by="1987">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="62" lt="62" ts="1415183102281" s="true" lb="/brainhoney/Scripts/ext-3.0.0-2/resources/images/gray/window/top-bottom.png" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="bin" by="3240">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="14" lt="14" ts="1415183102344" s="true" lb="/brainhoney/Scripts/ext-3.0.0-2/resources/images/default/shadow-c.png" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="bin" by="498">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="14" lt="14" ts="1415183102359" s="true" lb="/brainhoney/Scripts/ext-3.0.0-2/resources/images/default/progress/progress-bg.gif" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="bin" by="1214">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="3813" lt="0" ts="1415183103438" s="true" lb="Yes" rc="200" rm="Number of samples in transaction : 17, number of failing samples : 0" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="" by="55952">
+  <assertionResult>
+    <name>Global Verification</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="15" lt="15" ts="1415183103439" s="true" lb="/brainhoney/Scripts/ext-3.0.0-2/resources/images/default/box/tb-blue.gif" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="bin" by="1231">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="95" lt="95" ts="1415183103455" s="true" lb="/launchpad/myers10e/404783/Log/LogSubmissionActivity" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="text" by="330">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="149" lt="149" ts="1415183103550" s="true" lb="/launchpad/myers10e/404783/Log/LogSubmissionActivity" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="text" by="329">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="142" lt="142" ts="1415183103700" s="true" lb="/launchpad/myers10e/404783/Log/LogSubmissionActivity" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="text" by="329">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="184" lt="184" ts="1415183103843" s="true" lb="/launchpad/myers10e/404783/Log/LogSubmissionActivity" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="text" by="329">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="17" lt="17" ts="1415183104028" s="true" lb="/brainhoney/Scripts/ext-3.0.0-2/resources/images/gray/panel/tool-sprites.gif" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="bin" by="4855">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="1523" lt="1503" ts="1415183104091" s="true" lb="/brainhoney/Content/Exam/review.aspx" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="text" by="6865">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <httpSample t="1503" lt="1503" ts="1415183104091" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Content/Exam/review.aspx" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="text" by="3138"/>
+    <httpSample t="10" lt="10" ts="1415183105597" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Resource/404783/assets/launchpad_bh_component.css" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="" by="268"/>
+    <httpSample t="17" lt="17" ts="1415183105597" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Images/delete.png" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="bin" by="1761"/>
+    <httpSample t="17" lt="17" ts="1415183105597" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Images/check.png" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="bin" by="1698"/>
+  </httpSample>
+  <httpSample t="87" lt="86" ts="1415183105700" s="true" lb="/brainhoney/Learn/RecordActivity.ashx" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="text" by="702">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="77" lt="77" ts="1415183105787" s="true" lb="/launchpad/myers10e/404783/Log/LogSubmissionActivity" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="text" by="330">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="73" lt="73" ts="1415183105865" s="true" lb="/launchpad/myers10e/404783/Quiz/SubmissionHistory" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="text" by="1234">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="216" lt="216" ts="1415183105939" s="true" lb="/launchpad/myers10e/404783/LaunchpadTreeWidget/LoadItem" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="text" by="5832">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="87" lt="87" ts="1415183106170" s="true" lb="/brainhoney/Learn/RecordActivity.ashx" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="text" by="702">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="184" lt="184" ts="1415183106257" s="true" lb="/launchpad/myers10e/404783/LaunchpadTreeWidget/LoadItem" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="text" by="5832">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="478" lt="477" ts="1415183106443" s="true" lb="/launchpad/myers10e/404783/LaunchpadTreeWidget/LoadItem" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="text" by="5832">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="84" lt="83" ts="1415183106932" s="true" lb="/brainhoney/Learn/RecordActivity.ashx" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="text" by="702">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="345" lt="293" ts="1415183107016" s="true" lb="/brainhoney/component/SubmissionDetails" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="text" by="19687">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <httpSample t="294" lt="293" ts="1415183107016" s="true" lb="http://qa.macmillanhighered.com/brainhoney/component/SubmissionDetails?EnrollmentId=404847&amp;ItemId=8237fdca6e334e5ba471c64e475e6ab5&amp;Version=38&amp;showBeforeUnloadPrompts=false&amp;xdm_e=http%3A%2F%2Fqa.macmillanhighered.com%2Flaunchpad%2Fmyers10e%2F404783&amp;xdm_c=default234&amp;xdm_p=4" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="text" by="12801"/>
+    <httpSample t="16" lt="16" ts="1415183107319" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Scripts/ext-3.0.0-2/resources/css/ext-all.css" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="" by="374"/>
+    <httpSample t="13" lt="13" ts="1415183107319" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Styles_vv1CFADB3F46A3FCE.css" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="" by="374"/>
+    <httpSample t="24" lt="24" ts="1415183107320" s="true" lb="http://qa.macmillanhighered.com/brainhoney/StylesOld_vv1CFADB3F46CA12F.css" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="" by="374"/>
+    <httpSample t="13" lt="13" ts="1415183107319" s="true" lb="http://qa.macmillanhighered.com/brainhoney/IE6Styles.css" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="" by="266"/>
+    <httpSample t="18" lt="18" ts="1415183107320" s="true" lb="http://qa.macmillanhighered.com/brainhoney/resource/175768/px_overrides.css" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="" by="268"/>
+    <httpSample t="18" lt="18" ts="1415183107320" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Resource/404783/assets/launchpad_bh_component.css" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="" by="268"/>
+    <httpSample t="13" lt="13" ts="1415183107332" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Scripts/ext-3.0.0-2/ext-comb12.js" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="" by="374"/>
+    <httpSample t="15" lt="15" ts="1415183107332" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Scripts/ext-3.0.0-2/locale/ext-lang-en.js" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="" by="374"/>
+    <httpSample t="12" lt="12" ts="1415183107335" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Scripts/easyXDM-2.4.12.108/easyXDM.min.js" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="" by="374"/>
+    <httpSample t="14" lt="14" ts="1415183107338" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Scripts/MediaLoader_vv1CFADB409966393.js" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="" by="375"/>
+    <httpSample t="14" lt="14" ts="1415183107338" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Scripts/tiny_mce-3.5.3/tiny_mce.js" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="" by="375"/>
+    <httpSample t="13" lt="13" ts="1415183107344" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Scripts/BoilerPlate_vv1CFADB40964669E.js" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="" by="374"/>
+    <httpSample t="14" lt="14" ts="1415183107345" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Scripts/SubmissionDetails_vv1CFADB409A4ABD9.js" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="text" by="1972"/>
+    <httpSample t="13" lt="13" ts="1415183107347" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Images/delete.png" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="" by="372"/>
+    <httpSample t="14" lt="14" ts="1415183107347" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Images/check.png" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="" by="372"/>
+  </httpSample>
+  <httpSample t="57" lt="57" ts="1415183107363" s="true" lb="/brainhoney/FrameHelper.ashx" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="text" by="831">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="3547" lt="0" ts="1415183103894" s="true" lb="Yes" rc="200" rm="Number of samples in transaction : 17, number of failing samples : 0" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="" by="55959">
+  <assertionResult>
+    <name>Global Verification</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="18" lt="18" ts="1415183103894" s="true" lb="/brainhoney/Scripts/ext-3.0.0-2/resources/images/default/box/tb-blue.gif" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="bin" by="1231">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="65" lt="64" ts="1415183103913" s="true" lb="/launchpad/myers10e/404783/Log/LogSubmissionActivity" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="text" by="330">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="148" lt="148" ts="1415183103978" s="true" lb="/launchpad/myers10e/404783/Log/LogSubmissionActivity" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="text" by="329">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="130" lt="130" ts="1415183104127" s="true" lb="/launchpad/myers10e/404783/Log/LogSubmissionActivity" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="text" by="329">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="158" lt="158" ts="1415183104258" s="true" lb="/launchpad/myers10e/404783/Log/LogSubmissionActivity" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="text" by="329">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="18" lt="18" ts="1415183104416" s="true" lb="/brainhoney/Scripts/ext-3.0.0-2/resources/images/gray/panel/tool-sprites.gif" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="bin" by="4855">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="1249" lt="1230" ts="1415183104463" s="true" lb="/brainhoney/Content/Exam/review.aspx" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="text" by="6875">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <httpSample t="1230" lt="1230" ts="1415183104463" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Content/Exam/review.aspx" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="text" by="3148"/>
+    <httpSample t="9" lt="9" ts="1415183105696" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Resource/404783/assets/launchpad_bh_component.css" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="" by="268"/>
+    <httpSample t="16" lt="16" ts="1415183105696" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Images/check.png" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="bin" by="1698"/>
+    <httpSample t="16" lt="16" ts="1415183105696" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Images/delete.png" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="bin" by="1761"/>
+  </httpSample>
+  <httpSample t="73" lt="73" ts="1415183105727" s="true" lb="/brainhoney/Learn/RecordActivity.ashx" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="text" by="702">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="63" lt="63" ts="1415183105801" s="true" lb="/launchpad/myers10e/404783/Log/LogSubmissionActivity" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="text" by="330">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="76" lt="76" ts="1415183105866" s="true" lb="/launchpad/myers10e/404783/Quiz/SubmissionHistory" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="text" by="1234">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="219" lt="219" ts="1415183105943" s="true" lb="/launchpad/myers10e/404783/LaunchpadTreeWidget/LoadItem" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="text" by="5832">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="71" lt="71" ts="1415183106178" s="true" lb="/brainhoney/Learn/RecordActivity.ashx" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="text" by="702">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="230" lt="230" ts="1415183106250" s="true" lb="/launchpad/myers10e/404783/LaunchpadTreeWidget/LoadItem" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="text" by="5832">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="517" lt="517" ts="1415183106481" s="true" lb="/launchpad/myers10e/404783/LaunchpadTreeWidget/LoadItem" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="text" by="5832">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="127" lt="127" ts="1415183107007" s="true" lb="/brainhoney/Learn/RecordActivity.ashx" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="text" by="703">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="338" lt="286" ts="1415183107134" s="true" lb="/brainhoney/component/SubmissionDetails" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="text" by="19683">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <httpSample t="287" lt="286" ts="1415183107134" s="true" lb="http://qa.macmillanhighered.com/brainhoney/component/SubmissionDetails?EnrollmentId=404847&amp;ItemId=8237fdca6e334e5ba471c64e475e6ab5&amp;Version=38&amp;showBeforeUnloadPrompts=false&amp;xdm_e=http%3A%2F%2Fqa.macmillanhighered.com%2Flaunchpad%2Fmyers10e%2F404783&amp;xdm_c=default234&amp;xdm_p=4" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="text" by="12799"/>
+    <httpSample t="17" lt="17" ts="1415183107430" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Scripts/ext-3.0.0-2/resources/css/ext-all.css" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="" by="374"/>
+    <httpSample t="15" lt="15" ts="1415183107430" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Styles_vv1CFADB3F46A3FCE.css" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="" by="374"/>
+    <httpSample t="14" lt="14" ts="1415183107430" s="true" lb="http://qa.macmillanhighered.com/brainhoney/StylesOld_vv1CFADB3F46CA12F.css" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="" by="374"/>
+    <httpSample t="17" lt="17" ts="1415183107430" s="true" lb="http://qa.macmillanhighered.com/brainhoney/IE6Styles.css" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="" by="266"/>
+    <httpSample t="10" lt="10" ts="1415183107430" s="true" lb="http://qa.macmillanhighered.com/brainhoney/resource/175768/px_overrides.css" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="" by="268"/>
+    <httpSample t="10" lt="10" ts="1415183107431" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Resource/404783/assets/launchpad_bh_component.css" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="" by="268"/>
+    <httpSample t="14" lt="14" ts="1415183107440" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Scripts/ext-3.0.0-2/ext-comb12.js" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="" by="374"/>
+    <httpSample t="13" lt="13" ts="1415183107441" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Scripts/ext-3.0.0-2/locale/ext-lang-en.js" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="" by="374"/>
+    <httpSample t="14" lt="14" ts="1415183107444" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Scripts/easyXDM-2.4.12.108/easyXDM.min.js" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="" by="374"/>
+    <httpSample t="14" lt="14" ts="1415183107445" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Scripts/MediaLoader_vv1CFADB409966393.js" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="" by="374"/>
+    <httpSample t="16" lt="16" ts="1415183107447" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Scripts/tiny_mce-3.5.3/tiny_mce.js" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="" by="374"/>
+    <httpSample t="14" lt="14" ts="1415183107448" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Scripts/BoilerPlate_vv1CFADB40964669E.js" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="" by="374"/>
+    <httpSample t="17" lt="17" ts="1415183107454" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Scripts/SubmissionDetails_vv1CFADB409A4ABD9.js" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="text" by="1972"/>
+    <httpSample t="17" lt="17" ts="1415183107454" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Images/delete.png" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="" by="372"/>
+    <httpSample t="14" lt="14" ts="1415183107458" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Images/check.png" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="" by="372"/>
+  </httpSample>
+  <httpSample t="47" lt="47" ts="1415183107475" s="true" lb="/brainhoney/FrameHelper.ashx" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="text" by="831">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="345" lt="0" ts="1415183108665" s="true" lb="Close" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="" by="4155">
+  <assertionResult>
+    <name>Global Verification</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="73" lt="73" ts="1415183108665" s="true" lb="/launchpad/myers10e/404783/Log/LogSubmissionActivity" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="text" by="330">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="272" lt="271" ts="1415183108739" s="true" lb="/launchpad/myers10e/404783/ContentWidget/DisplayItem/8237fdca6e334e5ba471c64e475e6ab5" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="text" by="3825">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="414" lt="0" ts="1415183110128" s="true" lb="View Submission" rc="200" rm="Number of samples in transaction : 3, number of failing samples : 0" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="" by="20152">
+  <assertionResult>
+    <name>Global Verification</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="91" lt="91" ts="1415183110128" s="true" lb="/launchpad/myers10e/404783/Quiz/SubmissionHistory" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="text" by="1234">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="273" lt="219" ts="1415183110220" s="true" lb="/brainhoney/component/SubmissionDetails" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="text" by="18087">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <httpSample t="221" lt="219" ts="1415183110220" s="true" lb="http://qa.macmillanhighered.com/brainhoney/component/SubmissionDetails?EnrollmentId=404847&amp;ItemId=8237fdca6e334e5ba471c64e475e6ab5&amp;Version=38&amp;showBeforeUnloadPrompts=false&amp;xdm_e=http%3A%2F%2Fqa.macmillanhighered.com%2Flaunchpad%2Fmyers10e%2F404783&amp;xdm_c=default235&amp;xdm_p=4" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="text" by="12800"/>
+    <httpSample t="16" lt="16" ts="1415183110451" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Scripts/ext-3.0.0-2/resources/css/ext-all.css" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="" by="374"/>
+    <httpSample t="19" lt="19" ts="1415183110451" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Styles_vv1CFADB3F46A3FCE.css" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="" by="374"/>
+    <httpSample t="15" lt="15" ts="1415183110452" s="true" lb="http://qa.macmillanhighered.com/brainhoney/StylesOld_vv1CFADB3F46CA12F.css" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="" by="374"/>
+    <httpSample t="18" lt="18" ts="1415183110452" s="true" lb="http://qa.macmillanhighered.com/brainhoney/IE6Styles.css" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="" by="266"/>
+    <httpSample t="9" lt="9" ts="1415183110452" s="true" lb="http://qa.macmillanhighered.com/brainhoney/resource/175768/px_overrides.css" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="" by="268"/>
+    <httpSample t="10" lt="10" ts="1415183110452" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Resource/404783/assets/launchpad_bh_component.css" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="" by="268"/>
+    <httpSample t="13" lt="13" ts="1415183110462" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Scripts/ext-3.0.0-2/ext-comb12.js" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="" by="374"/>
+    <httpSample t="13" lt="13" ts="1415183110462" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Scripts/ext-3.0.0-2/locale/ext-lang-en.js" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="" by="374"/>
+    <httpSample t="13" lt="13" ts="1415183110467" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Scripts/easyXDM-2.4.12.108/easyXDM.min.js" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="" by="374"/>
+    <httpSample t="14" lt="14" ts="1415183110467" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Scripts/MediaLoader_vv1CFADB409966393.js" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="" by="374"/>
+    <httpSample t="16" lt="16" ts="1415183110470" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Scripts/tiny_mce-3.5.3/tiny_mce.js" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="" by="374"/>
+    <httpSample t="16" lt="16" ts="1415183110470" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Scripts/BoilerPlate_vv1CFADB40964669E.js" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="" by="374"/>
+    <httpSample t="14" lt="14" ts="1415183110476" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Scripts/SubmissionDetails_vv1CFADB409A4ABD9.js" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="" by="374"/>
+    <httpSample t="13" lt="13" ts="1415183110476" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Images/delete.png" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="" by="372"/>
+    <httpSample t="13" lt="13" ts="1415183110480" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Images/check.png" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="" by="373"/>
+  </httpSample>
+  <httpSample t="50" lt="50" ts="1415183110496" s="true" lb="/brainhoney/FrameHelper.ashx" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="text" by="831">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="375" lt="0" ts="1415183111598" s="true" lb="Close" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="" by="4155">
+  <assertionResult>
+    <name>Global Verification</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="83" lt="83" ts="1415183111598" s="true" lb="/launchpad/myers10e/404783/Log/LogSubmissionActivity" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="text" by="330">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="292" lt="291" ts="1415183111681" s="true" lb="/launchpad/myers10e/404783/ContentWidget/DisplayItem/8237fdca6e334e5ba471c64e475e6ab5" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="text" by="3825">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="258" lt="0" ts="1415183111825" s="true" lb="Done" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="" by="3825">
+  <assertionResult>
+    <name>Global Verification</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="258" lt="257" ts="1415183111825" s="true" lb="/launchpad/myers10e/404783/ContentWidget/DisplayItem/8237fdca6e334e5ba471c64e475e6ab5" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="text" by="3825">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="228" lt="0" ts="1415183112135" s="true" lb="Home" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="" by="5832">
+  <assertionResult>
+    <name>Global Verification</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="228" lt="228" ts="1415183112135" s="true" lb="/launchpad/myers10e/404783/LaunchpadTreeWidget/LoadItem" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="text" by="5832">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="643" lt="0" ts="1415183112797" s="true" lb="LogOut" rc="200" rm="Number of samples in transaction : 3, number of failing samples : 0" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="" by="37621">
+  <assertionResult>
+    <name>Global Verification</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="184" lt="89" ts="1415183112797" s="true" lb="/launchpad/myers10e/404783/Account/Logout" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="text" by="11431">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <httpSample t="89" lt="89" ts="1415183112797" s="true" lb="http://qa.macmillanhighered.com/launchpad/myers10e/404783/Account/Logout" rc="302" rm="Found" tn="" dt="text" by="3899"/>
+    <httpSample t="43" lt="34" ts="1415183112891" s="true" lb="http://qa.activation.macmillanhighered.com/account/logout?target=http://qa.macmillanhighered.com/launchpad/myers10e/404783%3FBaseUrl=qa.macmillanhighered.com/launchpad/myers10e" rc="302" rm="Found" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="text" by="3338"/>
+    <httpSample t="46" lt="43" ts="1415183112935" s="true" lb="http://qa.macmillanhighered.com/launchpad/myers10e/404783?BaseUrl=qa.macmillanhighered.com/launchpad/myers10e" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="text" by="4194"/>
+  </httpSample>
+  <httpSample t="429" lt="412" ts="1415183112982" s="true" lb="/launchpad/myers10e/404783/ECommerce/Unauthenticated" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="text" by="25926">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <httpSample t="414" lt="412" ts="1415183112982" s="true" lb="http://qa.macmillanhighered.com/launchpad/myers10e/404783/ECommerce/Unauthenticated?returnUrl=http%3A//qa.macmillanhighered.com/launchpad/myers10e/404783%3FBaseUrl%3Dqa.macmillanhighered.com/launchpad/myers10e" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="text" by="25143"/>
+    <httpSample t="10" lt="10" ts="1415183113401" s="true" lb="http://qa.macmillanhighered.com/content/basestyle__R201411035385TServerTasks30593.css" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="" by="261"/>
+    <httpSample t="9" lt="9" ts="1415183113401" s="true" lb="http://qa.macmillanhighered.com/content/react_styles__R201411035385TServerTasks30593.css" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="" by="261"/>
+    <httpSample t="8" lt="8" ts="1415183113402" s="true" lb="http://qa.macmillanhighered.com/scripts/base__R201411035385TServerTasks30593.js" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="" by="261"/>
+  </httpSample>
+  <httpSample t="30" lt="29" ts="1415183113415" s="true" lb="/launchpad/myers10e/404783/ECommerce/GetNotificationsWithIds" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-1" dt="" by="264">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="523" lt="0" ts="1415183116965" s="true" lb="View Submission" rc="200" rm="Number of samples in transaction : 3, number of failing samples : 0" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="" by="20153">
+  <assertionResult>
+    <name>Global Verification</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="103" lt="103" ts="1415183116965" s="true" lb="/launchpad/myers10e/404783/Quiz/SubmissionHistory" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="text" by="1234">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="365" lt="313" ts="1415183117069" s="true" lb="/brainhoney/component/SubmissionDetails" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="text" by="18088">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <httpSample t="314" lt="313" ts="1415183117069" s="true" lb="http://qa.macmillanhighered.com/brainhoney/component/SubmissionDetails?EnrollmentId=404847&amp;ItemId=8237fdca6e334e5ba471c64e475e6ab5&amp;Version=38&amp;showBeforeUnloadPrompts=false&amp;xdm_e=http%3A%2F%2Fqa.macmillanhighered.com%2Flaunchpad%2Fmyers10e%2F404783&amp;xdm_c=default235&amp;xdm_p=4" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="text" by="12800"/>
+    <httpSample t="14" lt="14" ts="1415183117391" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Scripts/ext-3.0.0-2/resources/css/ext-all.css" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="" by="374"/>
+    <httpSample t="14" lt="14" ts="1415183117391" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Styles_vv1CFADB3F46A3FCE.css" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="" by="374"/>
+    <httpSample t="17" lt="17" ts="1415183117392" s="true" lb="http://qa.macmillanhighered.com/brainhoney/StylesOld_vv1CFADB3F46CA12F.css" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="" by="374"/>
+    <httpSample t="23" lt="23" ts="1415183117392" s="true" lb="http://qa.macmillanhighered.com/brainhoney/IE6Styles.css" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="" by="267"/>
+    <httpSample t="19" lt="19" ts="1415183117392" s="true" lb="http://qa.macmillanhighered.com/brainhoney/resource/175768/px_overrides.css" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="" by="268"/>
+    <httpSample t="19" lt="19" ts="1415183117392" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Resource/404783/assets/launchpad_bh_component.css" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="" by="268"/>
+    <httpSample t="14" lt="14" ts="1415183117405" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Scripts/ext-3.0.0-2/ext-comb12.js" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="" by="374"/>
+    <httpSample t="13" lt="13" ts="1415183117405" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Scripts/ext-3.0.0-2/locale/ext-lang-en.js" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="" by="374"/>
+    <httpSample t="12" lt="12" ts="1415183117409" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Scripts/easyXDM-2.4.12.108/easyXDM.min.js" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="" by="374"/>
+    <httpSample t="13" lt="13" ts="1415183117411" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Scripts/MediaLoader_vv1CFADB409966393.js" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="" by="374"/>
+    <httpSample t="14" lt="14" ts="1415183117411" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Scripts/tiny_mce-3.5.3/tiny_mce.js" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="" by="374"/>
+    <httpSample t="13" lt="13" ts="1415183117415" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Scripts/BoilerPlate_vv1CFADB40964669E.js" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="" by="374"/>
+    <httpSample t="13" lt="13" ts="1415183117418" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Scripts/SubmissionDetails_vv1CFADB409A4ABD9.js" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="" by="375"/>
+    <httpSample t="14" lt="14" ts="1415183117419" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Images/delete.png" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="" by="372"/>
+    <httpSample t="12" lt="12" ts="1415183117422" s="true" lb="http://qa.macmillanhighered.com/brainhoney/Images/check.png" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="" by="372"/>
+  </httpSample>
+  <httpSample t="55" lt="55" ts="1415183117436" s="true" lb="/brainhoney/FrameHelper.ashx" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="text" by="831">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="270" lt="0" ts="1415183119506" s="true" lb="Done" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="" by="3825">
+  <assertionResult>
+    <name>Global Verification</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="270" lt="269" ts="1415183119506" s="true" lb="/launchpad/myers10e/404783/ContentWidget/DisplayItem/8237fdca6e334e5ba471c64e475e6ab5" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="text" by="3825">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="249" lt="0" ts="1415183122755" s="true" lb="Home" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="" by="5832">
+  <assertionResult>
+    <name>Global Verification</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="249" lt="249" ts="1415183122756" s="true" lb="/launchpad/myers10e/404783/LaunchpadTreeWidget/LoadItem" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="text" by="5832">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="363" lt="0" ts="1415183125205" s="true" lb="LogOut" rc="200" rm="Number of samples in transaction : 3, number of failing samples : 0" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="" by="37621">
+  <assertionResult>
+    <name>Global Verification</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="160" lt="67" ts="1415183125206" s="true" lb="/launchpad/myers10e/404783/Account/Logout" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="text" by="11431">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <httpSample t="67" lt="67" ts="1415183125206" s="true" lb="http://qa.macmillanhighered.com/launchpad/myers10e/404783/Account/Logout" rc="302" rm="Found" tn="" dt="text" by="3899"/>
+    <httpSample t="37" lt="29" ts="1415183125277" s="true" lb="http://qa.activation.macmillanhighered.com/account/logout?target=http://qa.macmillanhighered.com/launchpad/myers10e/404783%3FBaseUrl=qa.macmillanhighered.com/launchpad/myers10e" rc="302" rm="Found" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="text" by="3338"/>
+    <httpSample t="52" lt="52" ts="1415183125314" s="true" lb="http://qa.macmillanhighered.com/launchpad/myers10e/404783?BaseUrl=qa.macmillanhighered.com/launchpad/myers10e" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="text" by="4194"/>
+  </httpSample>
+  <httpSample t="166" lt="141" ts="1415183125367" s="true" lb="/launchpad/myers10e/404783/ECommerce/Unauthenticated" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="text" by="25926">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <httpSample t="143" lt="141" ts="1415183125367" s="true" lb="http://qa.macmillanhighered.com/launchpad/myers10e/404783/ECommerce/Unauthenticated?returnUrl=http%3A//qa.macmillanhighered.com/launchpad/myers10e/404783%3FBaseUrl%3Dqa.macmillanhighered.com/launchpad/myers10e" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="text" by="25143"/>
+    <httpSample t="9" lt="9" ts="1415183125515" s="true" lb="http://qa.macmillanhighered.com/content/basestyle__R201411035385TServerTasks30593.css" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="" by="261"/>
+    <httpSample t="18" lt="18" ts="1415183125515" s="true" lb="http://qa.macmillanhighered.com/content/react_styles__R201411035385TServerTasks30593.css" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="" by="261"/>
+    <httpSample t="18" lt="18" ts="1415183125515" s="true" lb="http://qa.macmillanhighered.com/scripts/base__R201411035385TServerTasks30593.js" rc="304" rm="Not Modified" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="" by="261"/>
+  </httpSample>
+  <httpSample t="37" lt="37" ts="1415183125536" s="true" lb="/launchpad/myers10e/404783/ECommerce/GetNotificationsWithIds" rc="200" rm="OK" tn="Launchpad Attempt Quiz-31Oct 1-2" dt="" by="264">
+    <assertionResult>
+      <name>Global Verification</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+</sample>
+
+</testResults>

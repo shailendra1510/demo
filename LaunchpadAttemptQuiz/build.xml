@@ -1,0 +1,27 @@
+<project name="Launchpad_Jenkins" default="all">
+	<property name="jmeter-location" location="C:\Users\prashant.shukla\Desktop\apache-jmeter-2.11" />
+	<taskdef name="jmeter-task" classname="org.programmerplanet.ant.taskdefs.jmeter.JMeterTask" classpath="${jmeter-location}/extras/ant-jmeter-1.1.1.jar" />
+	<target name="init">
+		<echo message="[init] jmeter-location = ${jmeter-location}" />
+		<delete dir="Jenkins-results" />
+		<mkdir dir="Jenkins-results" />
+		<mkdir dir="Jenkins-results/jtl" />
+		<mkdir dir="Jenkins-results/html" />
+	</target>
+	<target name="tests" depends="init" description="launchpad jmeter load tests">
+		<echo message="[Running] Running Jmeter Launchpad tests..." />
+		<jmeter-task jmeterhome="${jmeter-location}" resultlog="Jenkins-results\jtl\launchpad_report.jtl">
+			<testplans dir="" includes="LaunchpadAttemptQuiz.jmx" />
+			<property name="env" value="qa" />
+			<property name="threads" value="${Totaluser}" />
+			<property name="rampup" value="${RampUp_Time}" />
+			<property name="duration" value="150" />
+		</jmeter-task>
+	</target>
+	<!-- This is not needed for the plugin, but it produces a nice html report
+	       which can be saved usin hudson's archive artifact feature -->
+	<target name="report" depends="tests">
+		<xslt basedir="Jenkins-results\jtl" destdir="Jenkins-results\html" includes="*.jtl" style="${jmeter-location}/extras/jmeter-results-detail-report_21.xsl" />
+	</target>
+	<target name="all" depends="tests, report" />
+</project>

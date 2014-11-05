@@ -1,0 +1,14 @@
+#export JVM_ARGS="-XX:PermSize=1g -XX:MaxPermSize=1g -Xms20g -Xmx20g -verbose:gc -XX:+PrintGC -XX:+PrintGCDateStamps -Xloggc:jmeter-gc.log -XX:CMSInitiatingOccupancyFraction=80 -XX:+UseCMSInitiatingOccupancyOnly -XX:MaxNewSize=8g -XX:NewSize=8g  -XX:+UseConcMarkSweepGC "
+
+#export JVM_ARGS="-XX:PermSize=1G -XX:MaxPermSize=1G -Xms20g -Xmx20g -verbose:gc -XX:+PrintGC -XX:+PrintGCDateStamps -Xloggc:jmeter-gc.log -XX:InitiatingHeapOccupancyPercent=65 -XX:+UseConcMarkSweepGC "
+
+#export JVM_ARGS="-XX:PermSize=512m -XX:MaxPermSize=512m -Xms10g -Xmx10g -verbose:gc -XX:+PrintGC -XX:+PrintGCDateStamps -Xloggc:jmeter-gc.log -XX:CMSInitiatingOccupancyFraction=80 -XX:+UseCMSInitiatingOccupancyOnly -XX:MaxNewSize=2g -XX:NewSize=2g  -XX:+UseConcMarkSweepGC -XX:+CMSClassUnloadingEnabled "
+
+#export JVM_ARGS="-XX:PermSize=1g -XX:MaxPermSize=1g -Xms15g -Xmx15g -verbose:gc -XX:+PrintGC -XX:+PrintGCDateStamps -Xloggc:jmeter-gc.log -XX:CMSInitiatingOccupancyFraction=80 -XX:+UseCMSInitiatingOccupancyOnly -XX:MaxNewSize=4g -XX:NewSize=4g  -XX:+UseConcMarkSweepGC -XX:+CMSClassUnloadingEnabled "
+
+#export JVM_ARGS="-XX:PermSize=512m -XX:MaxPermSize=512m -Xms15g -Xmx15g -verbose:gc -XX:+PrintGC -XX:+PrintGCDateStamps -Xloggc:jmeter-gc.log -XX:CMSInitiatingOccupancyFraction=65 -XX:+UseCMSInitiatingOccupancyOnly -XX:+UseConcMarkSweepGC -XX:+CMSClassUnloadingEnabled"
+
+#export JVM_ARGS="-XX:PermSize=1g -XX:MaxPermSize=1g -Xms20g -Xmx20g -verbose:gc -XX:+PrintGC -XX:+PrintGCDateStamps -Xloggc:jmeter-gc.log -XX:CMSInitiatingOccupancyFraction=80 -XX:+UseCMSInitiatingOccupancyOnly -XX:MaxNewSize=4g -XX:NewSize=4g -XX:+UseConcMarkSweepGC -XX:+CMSClassUnloadingEnabled -jar"
+
+export JVM_ARGS="-Xms20G -Xmx20G -Xss10M -XX:PermSize=128M -XX:MaxPermSize=128M -XX:+UseG1GC -XX:MaxGCPauseMillis=100 -XX:InitiatingHeapOccupancyPercent=65 -XX:ParallelGCThreads=24 -verbose:gc -XX:+PrintGC -XX:+PrintGCDetails -XX:+PrintGCDateStamps -XX:+PrintAdaptiveSizePolicy -XX:+PrintGCApplicationStoppedTime -XX:+PrintGCApplicationConcurrentTime -Xloggc:/gale/galedev/jmeter-gc.log"
+/gale/galedev/apache-jmeter-2.10/bin/jmeter.sh&
